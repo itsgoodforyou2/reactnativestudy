@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#3679fe"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,6 +25,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
-  }
+    },
+    "sdkVersion": "48.0.0"
+  },
+  "name": "react-native-simple-chat"
 }
